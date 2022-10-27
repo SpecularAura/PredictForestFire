@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "e5e28dcc70ce7a01",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d4f7884139f3fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84cf594b4f0bf386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predicting Forest Fires.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70a1dfb09b6f2e2b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ProjectReport.pdf"
+              }
+            }
+          },
+          {
+            "id": "ec44bd17b8a790bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88b1f768ae489729",
+    "type": "split",
+    "children": [
+      {
+        "id": "8826a6507b83b2ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcb8d1e274fc6f93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d78a0498cef5a6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa336a1872b142a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "34584f913e1435ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d69d7d6f5cec34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2628153402cbca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e74baaf129fcac49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bb48fc147c3f9b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1f3a8364f2c9967",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Report.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ec44bd17b8a790bf",
+  "lastOpenFiles": [
+    "Project Report.md",
+    "ProjectReport.pdf",
+    "Predicting Forest Fires.md"
+  ]
+}
