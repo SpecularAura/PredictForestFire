@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70640c576b362875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Report.md",
+                "file": "2022-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Report.md",
+                "file": "2022-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Report.md"
+                "file": "2022-10-29.md"
               }
             }
           }
@@ -159,8 +171,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec44bd17b8a790bf",
+  "active": "70640c576b362875",
   "lastOpenFiles": [
+    "Model Preparation Notes.md",
+    "2022-10-29.md",
+    "Untitled.md",
     "Project Report.md",
     "ProjectReport.pdf",
     "Predicting Forest Fires.md"
